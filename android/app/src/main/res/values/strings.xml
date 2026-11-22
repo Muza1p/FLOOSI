@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TADBIRI</string>
+    <string name="title_activity_main">TADBIRI</string>
+    <string name="package_name">com.mz8.tadbiri</string>
+    <string name="custom_url_scheme">com.mz8.tadbiri</string>
+</resources>
